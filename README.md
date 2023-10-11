@@ -3,13 +3,13 @@ Welcome to the "Incident_Reports" repo, your one-stop destination for accessing 
 
 ## 2023
 
-### VERIZON 2023
+### VERIZON
 
 [2023 DBIR](https://github.com/Glowacki-Shannon/Incident_Reports/blob/main/2023-data-breach-investigations-report-dbir.pdf)
 
-### SPLUNK 2023
+### SPLUNK
 
-### CROWDSTRIKE 2023 (INT)
+### CROWDSTRIKE (INT)
 
 [2023 DBIR](https://github.com/Glowacki-Shannon/Incident_Reports/blob/main/2023-data-breach-investigations-report-dbir.pdf)
 
